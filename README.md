@@ -51,4 +51,5 @@ This bot:
 | WebDriverManager | Manages driver installation   |
 
 ## How To Run
+
    python bot.py
