@@ -50,7 +50,7 @@ This bot:
 | ChromeDriver  | Controls Google Chrome           |
 | WebDriverManager | Manages driver installation   |
 
-### How To Run
-
-         python bot.py
 # How To Run
+## Step:1
+         python bot.py
+## Step:2
