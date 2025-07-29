@@ -55,7 +55,7 @@ This bot:
          python bot.py
 ## Step:2
 
-**-Scan the WhatsApp QR Code
+<b>-Scan the WhatsApp QR Code
 
 -WhatsApp Web will open in your Chrome browser.
 
@@ -63,4 +63,4 @@ This bot:
 
 -Tap the 3-dot menu → Linked Devices → Link a Device
 
--Scan the QR code shown in Chrome**
+-Scan the QR code shown in Chrome</b>
