@@ -64,7 +64,19 @@ This bot:
 -Tap the 3-dot menu → Linked Devices → Link a Device
 ----------------------------------------------------
 -Scan the QR code shown in Chrome</b>
-----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Step 3: Open the Target Chat Manually
