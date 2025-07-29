@@ -56,11 +56,12 @@ This bot:
 ## Step:2
 
 <b>-Scan the WhatsApp QR Code
-
+----------------------------------------------------
 -WhatsApp Web will open in your Chrome browser.
-
+----------------------------------------------------
 -Open WhatsApp on your phone:
-
+----------------------------------------------------
 -Tap the 3-dot menu → Linked Devices → Link a Device
-
+----------------------------------------------------
 -Scan the QR code shown in Chrome</b>
+----------------------------------------------------
