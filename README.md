@@ -65,3 +65,9 @@ This bot:
 ----------------------------------------------------
 -Scan the QR code shown in Chrome</b>
 ----------------------------------------------------
+
+
+## Step 3: Open the Target Chat Manually
+<b>Once logged in, click on the contact or group where you want the bot to reply.
+--------------------------------------------------------------------------------
+The bot only listens and replies to the currently open chat.</b>
