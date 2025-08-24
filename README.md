@@ -1,5 +1,6 @@
 # 🤖 WhatsApp Chatbot Using Python & Selenium (100% Free, No Meta API)
-bbhjjijjjjuuujiji292028919Welcome to the **Ultimate WhatsApp Auto-Reply Bot** using **Python + Selenium** — built to simulate intelligent conversations over WhatsApp Web without needing the Meta Business API!
+bhjjijjjjuuujiji292028919
+Welcome to the **Ultimate WhatsApp Auto-Reply Bot** using **Python + Selenium** — built to simulate intelligent conversations over WhatsApp Web without needing the Meta Business API!
 
 > ✅ Free and fully working  
 > ✅ No need for Meta API access  
